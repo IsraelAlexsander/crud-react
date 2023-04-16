@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
       "name": "Arthur",
-      "email": "a@email.com"
+      "email": "a@email.com",
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Bianca",
-      "email": "b@email.com"
+      "email": "b@email.com",
+      "id": 2
     },
     {
       "name": "Carol",
